@@ -1,4 +1,4 @@
-# Synapse-AI-Thermometer-Skin-Temperature-Sensor
+# Synapse AI Thermometer Skin Temperature Sensor
 
 Synapse’s fifth feature involves a transparent, flexible, capacitive thermometer using Smartphone embedded fingerprint sensor arrays that can detect multiplexed, simultaneous tactile pressure to measure finger skin temperature. 
 The app uses instrumentation located under most Smartphone touch-screens and requires our users to firmly place their finger for the evaluation process. This thermometer operates on networks of hybrid nanostructures using ultra-long metal nanofibers and finer nanowires, flexible electrodes of a multifunctional sensor array. These sensors exhibit excellent optoelectronic properties and outstanding reliability against mechanical bending, which is why they are best equipped for the purposes of this feature. 
@@ -8,7 +8,7 @@ The fabrication process for the multiplexed fingerprint sensor :
 
 ![image 6](https://user-images.githubusercontent.com/67471222/156799368-ff504f4e-ef76-4c12-9f61-9f387bc2ad58.png)
 
-# Flexible, transparent fingerprint sensor. 
+# Flexible, transparent fingerprint sensor
 
 ![image7](https://user-images.githubusercontent.com/67471222/156799406-aa451b57-1993-4d95-858b-7bd1126238d8.png)
 
